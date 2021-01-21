@@ -1,0 +1,3 @@
+red=com.shenfeng.yxw.dubbo.spi.dubbo.ioc.impl.RedCar
+black=com.shenfeng.yxw.dubbo.spi.dubbo.ioc.impl.BlackCar
+com.shenfeng.yxw.dubbo.spi.dubbo.ioc.CarWrapper

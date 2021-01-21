@@ -1,2 +1,3 @@
 optimusPrime=com.shenfeng.yxw.dubbo.spi.dubbo.OptimusPrime
 bumblebee=com.shenfeng.yxw.dubbo.spi.dubbo.Bumblebee
+com.shenfeng.yxw.dubbo.spi.dubbo.Rebot2Wrapper
